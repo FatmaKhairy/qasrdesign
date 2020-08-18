@@ -1,0 +1,116 @@
+#home5 #wrapper-site #content-wrapper #main .deal-of-day {
+  padding: 6rem 0 4rem;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .product-miniature .thumbnail-container a {
+  border-color: inherit !important;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .draggable {
+  padding-bottom: 3rem !important;
+  padding-top: 4rem !important;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content:hover .slick-arrow {
+  opacity: 1;
+  color: #666;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content:hover .slick-arrow:hover {
+  background: #666;
+  color: #eee;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .slick-arrow {
+  width: 40px;
+  height: 40px;
+  background: #eee;
+  color: #eee;
+  position: absolute;
+  top: 50%;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  transition: all 0.35s ease;
+  opacity: 0;
+  z-index: 1;
+  cursor: pointer;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content span.right {
+  right: 0;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .slick-prev {
+  left: -43px;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .slick-slide {
+  height: auto;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .d-flex div {
+  width: 45px;
+  height: 45px;
+  border: 1px solid #fb8842;
+  border-radius: 50%;
+  color: white;
+  background: #fb8842;
+  margin-right: 10px;
+  line-height: 2.7;
+  font-size: 12px;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .d-flex div span {
+  color: #fdd4c2;
+  display: block;
+  margin-top: -1rem;
+  font-size: 11px;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-groups .product-title {
+  margin-top: 1rem;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-groups .product-title a {
+  font-size: 12px;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-groups .product-group-price .regular-price {
+  font-size: 20px;
+  color: #a9a9a9;
+  margin-left: 0px;
+  text-decoration: line-through;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-groups .product-group-price .price {
+  font-family: "Poppins",sans-serif;
+  font-weight: bold;
+  color: #222;
+  margin-right: 10px;
+  font-size: 30px;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .add-to-cart, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .addToWishlist, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .quick-view {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 3px;
+  background: #fff;
+  border: 1px solid #ddd;
+  display: inline-block;
+  margin-right: 5px;
+  transition: all 300ms ease-in-out 0.1s;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .add-to-cart:hover, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .addToWishlist:hover, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .quick-view:hover {
+  background: #979797;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .add-to-cart:hover i, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .addToWishlist:hover i, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .quick-view:hover i {
+  font-size: 1rem;
+  color: white;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .add-to-cart i, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .addToWishlist i, #home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .product-description .product-buttons .quick-view i {
+  font-size: 1rem;
+  color: #979797;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .item.text-center.slick-current.slick-center {
+  transform: scale(1.2);
+  transition: 0.3s;
+  opacity: 1 !important;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .item.text-center.slick-current.slick-center .product-description {
+  display: block !important;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .item.text-center {
+  transform: scale(0.8);
+  opacity: 0.4;
+}
+#home5 #wrapper-site #content-wrapper #main .deal-of-day .tab-content .item.text-center .product-description {
+  display: none;
+}
